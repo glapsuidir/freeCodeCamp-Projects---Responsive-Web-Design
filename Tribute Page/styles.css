@@ -1,0 +1,65 @@
+body {
+  font-family: georgia, sans-serif;
+  color: #2d2217;
+  margin: 0;
+  padding: 0;
+  background-color: #e0e0d0;
+  border: 10px solid #8b4513;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 50;
+}
+
+header {
+  color: #2d2217;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+main {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1rem 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #2e8b57;
+}
+
+#img-caption {
+  text-align: center;
+  margin: 0 auto;
+  width: fit-content;
+  font-size: 20;
+  margin-top: 8px;
+}
+
+h3 {
+  font-size: 25;
+  text-align: center;
+}
+
+#tribute-info {
+  margin: auto 20px;
+  line-height: 1.5
+}
+
+#tagline {
+  margin: auto 10;
+}
+
+#quote-text, #further-info {
+  margin: auto 50;
+}
+
+#copyright {
+  margin: auto 50;
+  text-align: center;
+  font-size: 12;
+}
